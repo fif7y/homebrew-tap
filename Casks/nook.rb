@@ -14,7 +14,7 @@ cask "nook" do
   end
 
   auto_updates true
-  depends_on macos: ">= :tahoe" # macOS 27; adjust symbol to Homebrew's name for 27 when it lands
+  depends_on macos: ">= :golden_gate"
 
   app "Nook.app"
 
