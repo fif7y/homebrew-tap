@@ -14,7 +14,7 @@ cask "nook" do
   end
 
   auto_updates true
-  depends_on macos: ">= :golden_gate"
+  depends_on macos: :golden_gate
 
   app "Nook.app"
 
