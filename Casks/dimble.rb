@@ -1,6 +1,6 @@
 cask "dimble" do
-  version "0.3.2-beta.7"
-  sha256 "755a0e876878013d6a504faefdcdd92f53b6897ec8b6b332c37d85c55e9a1ee5"
+  version "0.3.2"
+  sha256 "ca69d62029d1c8e772593cb87ea6b871bc42d5f45679fe81b13a50d7c87f56fc"
 
   url "https://github.com/fif7y/dimble/releases/download/v#{version}/Dimble-#{version}.dmg"
   name "Dimble"
